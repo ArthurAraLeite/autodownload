@@ -59,7 +59,3 @@ Este script em Python automatiza o processo de extração dos **IDs de mods** de
 ```python
 colecao_id = '3482851310'  # Substitua pelo ID da sua coleção
 ```
-
----
-
-Se quiser, posso complementar com um `README.md` formatado ou até montar o repositório inicial pra você!
